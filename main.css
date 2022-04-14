@@ -40,8 +40,8 @@ h2
 {
 	position: relative;
 	font-size: 10vw;
-	color: #808f2c;
-	-webkit-text-stroke: 0.3vw #1fbbb3; 
+	color: #5020be;
+	-webkit-text-stroke: 0.3vw #5020be; 
 	text-transform: uppercase;
 
 }
@@ -54,8 +54,8 @@ h2::before
 	width: 100%;
 	height: 100%;
 	color: #808;
-	-webkit-text-stroke: 0.3vw #1fbbb3; 
-	border-right: 2px solid #289b4e;
+	-webkit-text-stroke: 0.3vw #808; 
+	border-right: 2px solid #808;
 	overflow: hidden;
 	animation: animate 6s linear infinite;
 }
