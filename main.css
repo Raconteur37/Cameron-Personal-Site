@@ -11,7 +11,7 @@
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-	background: #808f2c;
+	background: #491c63;
 }
 
 /* Handle on hover */
@@ -34,7 +34,7 @@ body
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	min-height: 200vh;
+	min-height: 150vh;
 
 }
 h2
