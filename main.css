@@ -30,11 +30,11 @@
 }
 body 
 {
-	animation: fadein 10s;
+	animation: fadein 3s;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	min-height: 150vh;
+	min-height: 100vh;
 
 }.top-align {
 	vertical-align: top;
