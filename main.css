@@ -36,7 +36,12 @@ body
 	align-items: center;
 	min-height: 150vh;
 
+}.top-align {
+	vertical-align: top;
+}.center-align {
+  	vertical-align: middle;
 }
+
 h2
 {
 	position: relative;
@@ -86,10 +91,3 @@ h2::before
 	opacity:1;
 	}
    }
-.top-align {
-	vertical-align: top;
-}  
-
-.center-align {
-  	vertical-align: middle;
-}
